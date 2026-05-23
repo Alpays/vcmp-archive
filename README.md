@@ -21,3 +21,10 @@ Note 3: Windows Server executable gets installed to your root directory when you
 - Compatible plugins for old vcmp 0.4 servers.
 - Perhaps add a C++ gamemode that is compatible with 0.4 versions lower than 04rel003 as they lack compatible plugins rn and only thing to do with those versions is to just join since there's no gamemode.
 - Find the 04rel002 version with the 'custom' splash
+
+# Credits
+This is not my work. Thanks to the developers who made this versions after years of modding and developing. \
+VC-MP Team \
+SA-MP Team \
+Liberty Unleashed Team \
+kyeman, spooky, jeranamo, maxorator, stormeus, bakasan, force, falcon, impulse, y_less, mike, AdTec_224, VRocker
