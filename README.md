@@ -9,13 +9,11 @@ There are actually a lot of vc-mp versions each made by different people, with d
 I will add notes here if needed;
 
 * Note 1: I have 4 04rel002 builds but the one with custom splash screen is nowhere to be found.
-* Note 2: Windows Server executable gets installed to your root directory when you install 0.1x clients
+* Note 2: Windows Server executable gets installed to your game directory when you install 0.1x clients
 * Note 3: I decided to only upload final builds of 04rel versions as the previous builds might have issues. (such as security and it wouldn't be good to upload it)
 * Note 4: If you want to play older 0.4 versions you can grab vcmp.h sdk for C/C++ from vc-mp forums/server updates and make your own gamemode either this or you will have to find binaries compatible for the 0.4 version you want to play. I added some of the seby's blank vcmp servers for previous versions and you can try to grab binaries there.
 
 # Looking for following
-- Compatible plugins for old vcmp 0.4 servers.
-- Perhaps add a C++ gamemode that is compatible with 0.4 versions lower than 04rel003 as they lack compatible plugins rn and only thing to do with those versions is to just join since there's no gamemode.
 - Find the 04rel002 version with the 'custom' splash
 
 # Credits
@@ -24,4 +22,4 @@ VC-MP Team \
 SA-MP Team \
 Liberty Unleashed Team \
 kyeman, spooky, jeranamo, maxorator, stormeus, bakasan, force, falcon, impulse, y_less, mike, AdTec_224, VRocker \
-Contact me if you want to take action to this repo. 
+This is just compilation of everything i found publicly on net, contact me if you want to take action to this repo. 
